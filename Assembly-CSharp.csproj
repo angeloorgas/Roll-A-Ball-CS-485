@@ -51,9 +51,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ActiveStateToggler.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ApplicationManager.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\DragMe.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\DragPanel.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\DropMe.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\LoadSceneOnClick.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\PanelManager.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\QuitOnClick.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ResizePanel.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\Rotator.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\ShowSliderValue.cs" />
+     <Compile Include="Assets\Unity UI Menu\Scripts\TiltWindow.cs" />
+     <None Include="Assets\Unity UI Menu\Fonts\Jupiter\LICENSE.txt" />
+     <None Include="Assets\Unity UI Menu\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+     <None Include="Assets\Unity UI Menu\Materials\UI-Default-No-Alpha.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

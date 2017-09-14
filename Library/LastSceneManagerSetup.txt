@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/MiniGame.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Unity UI Menu/_Scenes/TetrisClone.unity
+  isLoaded: 0
+  isActive: 0
